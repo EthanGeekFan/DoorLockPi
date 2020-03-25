@@ -1,4 +1,5 @@
 import face_recognition
+from picamera import PiCamera
 import cv2
 import numpy as np
 import os
